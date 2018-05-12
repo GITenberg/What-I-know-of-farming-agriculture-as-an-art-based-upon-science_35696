@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26821
     wikipedia: http://en.wikipedia.org/wiki/Horace_Greeley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35696#What-I-know-of-farming-agriculture-as-an-art-based-upon-science
 gutenberg_issued: '2011-03-27'
 gutenberg_type: Text
 identifiers:
